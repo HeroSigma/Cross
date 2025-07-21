@@ -7,6 +7,7 @@
     - [Ubuntu WSL1/WSL2](local_mdbook/ubuntu_WSL.md)
 - [Contributing](./CONTRIBUTING.md)
 - [Credits](./CREDITS.md)
+- [Region Progression Plan](./region_progression_plan.md)
 - [Tutorials]()
   - [What are AI Flags?](tutorials/ai_flags.md)
     - [How to add new AI Flags](tutorials/ai_logic.md)
